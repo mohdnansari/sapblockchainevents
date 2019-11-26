@@ -1,0 +1,29 @@
+{
+  "name": "sapblockchainevents",
+  "version": "1.0.0",
+  "description": "demonstrates events sent by sap blockhain service and chaincode",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server"
+  },
+  "dependencies": {
+    "ws": "",
+    "express": "",
+    "http": "",
+    "websocket": "",
+    "x-date": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N/A.git"
+  },
+  "keywords": [
+    "events"
+  ],
+  "author": "Mohammed Nihal Ansari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N/A/issues"
+  },
+  "homepage": "https://github.com/N/A#readme"
+}
